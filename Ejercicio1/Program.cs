@@ -24,6 +24,8 @@ namespace Ejercicio1
             //segun lo que requiera el usuario en un rango de una semana, la variacion de la disminucion o aumento
             //es de maximo 1kilo
 
+            //este es un nuevo cambio
+
 
         }
     }
